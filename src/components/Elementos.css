@@ -1,0 +1,18 @@
+h2{
+    color: aqua;
+}
+
+p{
+    font-size: bolder;
+    color: deeppink;
+    margin: 10px;
+    background-color: #0a0a0a;
+    border-radius: 5%;
+    padding: 2% 2%;
+}
+
+div{
+    border: dotted;
+    border-color: blueviolet;
+    border-radius: 6%;
+}

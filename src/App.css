@@ -8,7 +8,7 @@
 .AppBar{
   margin: 10px;
   background-color: blueviolet;
-  border-radius: 50%;
+  border-radius: 25%;
 }
 
 .buttonLink {

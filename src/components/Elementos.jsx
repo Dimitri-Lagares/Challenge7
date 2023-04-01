@@ -72,3 +72,5 @@ export const InformacionGeneral = () => <div><h2>informacion general</h2>
 </p>
 
 </div>; 
+
+export const Sesion = () => <div><h2>✋hola!✋ por favor establezca en true la variable permitir para ver portafolio</h2></div>
